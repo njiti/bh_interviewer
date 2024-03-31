@@ -1,4 +1,4 @@
-<h1 align="center">The Continouse Bus Project</h1>
+<h1 align="center">Interview Buddy</h1>
   <h2 align="center">1st iteration</h2>
   <!-- TABLE OF CONTENTS -->
 <details>
@@ -26,14 +26,14 @@
   </ol>
 </details>
 <h3>About Project</h3>
-The idea behind the project is to allow for user to buy a bus ticket more conviniently.
+This is an app utilizing OpenAPI's Assistant's API endpoints. Allowing for the uploading of documents and being able to be asked interview questions by the interviewer
 
 <h4>why</h4>
 
-This is by looking at diffarent situation in life like:
-*  Buying a ticket for a kid or that girl that yur not sure she will actually come over.
-* You can wallet someone money that they can only use for transport.
-* Make it easier for conductors to be able to make sure that everyones payed before time.
-* Makes it easier to track income from the vehicles.
-* Makes it harder to overload
-* Less noise as matatus dont have to hoot to know if some one needs a car
+Its main aim is to address issues like:
+* Mock Interviews: Simulating an interview environment.
+* Allowing for more interviews to be conducted by a company at a lower cost.
+* Reducing bias from the interview process.
+* Increasing the use of assessment tools in real time to better understand applicants and increase accuracy in hiring.
+* Saving on Time and money, including time to prepare for interviews and the money spent on training.
+* Customising questions to be relevant to the job description and user's Resume at the same time.
