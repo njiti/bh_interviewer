@@ -1,3 +1,16 @@
+<p align="center">
+    A Java GUI app for posting and biding on goods
+    <br />
+    <a href="https://github.com/njiti/bh_interviewer/issues"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/njiti/bh_interviewer/issues">View Demo</a>
+    ·
+    <a href="https://github.com/njiti/bh_interviewer/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/njiti/bh_interviewer/issues">Request Feature</a>
+  </p>
+  </div>
 <h1 align="center">Interview Buddy</h1>
   <h2 align="center">1st iteration</h2>
   <!-- TABLE OF CONTENTS -->
