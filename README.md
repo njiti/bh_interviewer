@@ -46,6 +46,20 @@ Its main aim is to address issues like:
 * Mock Interviews: Simulating an interview environment.
 * Allowing for more interviews to be conducted by a company at a lower cost.
 * Reducing bias from the interview process.
-* Increasing the use of assessment tools in real time to better understand applicants and increase accuracy in hiring.
-* Saving on Time and money, including time to prepare for interviews and the money spent on training.
+* Increasing the use of assessment tools in real-time to better understand applicants and increase accuracy in hiring.
+* Saving time and money, including time to prepare for interviews and the money spent on training.
 * Customising questions to be relevant to the job description and user's Resume at the same time.
+
+
+### Built With
+
+* [![Streamlit][Streamlit]][Streamlit-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
