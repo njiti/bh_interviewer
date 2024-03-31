@@ -51,4 +51,4 @@ Its main aim is to address issues like:
 * Customising questions to be relevant to the job description and user's Resume at the same time.
 
 <h3>Built With</h3>
-- code coverage percentage: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
