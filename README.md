@@ -35,7 +35,9 @@
   </ol>
 </details>
 <h3>About Project</h3>
+
 ![Interview Buddy Screen Shot](https://media.licdn.com/dms/image/D4D22AQHVM8yFOe4XdQ/feedshare-shrink_2048_1536/0/1711901787742?e=1714608000&v=beta&t=dnDZoHTQFYYGeLM1s79MbpbfnPhzpjqHPHtzj7ezq88)
+
 This is an app utilizing OpenAPI's Assistant's API endpoints. Allowing for the uploading of documents and being able to be asked interview questions by the interviewer
 
 <h4>why</h4>
