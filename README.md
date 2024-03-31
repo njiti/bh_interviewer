@@ -1,8 +1,4 @@
 <p align="center">
-    A Java GUI app for posting and biding on goods
-    <br />
-    <a href="https://github.com/njiti/bh_interviewer/issues"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/njiti/bh_interviewer/issues">View Demo</a>
     ·
